@@ -1,0 +1,9 @@
+User-agent:*
+Allow:/
+
+Sitemap: https://mceachernhike63.github.io/mceachernhike63_github_io_zp531_12.txt
+Sitemap: https://mceachernhike63.github.io/mceachernhike63_github_io_zp531_17.txt
+Sitemap: https://mceachernhike63.github.io/mceachernhike63_github_io_zp531_21.txt
+Sitemap: https://mceachernhike63.github.io/mceachernhike63_github_io_zp531_26.txt
+Sitemap: https://mceachernhike63.github.io/mceachernhike63_github_io_zp531_30.txt
+Sitemap: https://mceachernhike63.github.io/mceachernhike63_github_io_zp531_5.txt
